@@ -1,0 +1,8 @@
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Hajar\source\repos\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb

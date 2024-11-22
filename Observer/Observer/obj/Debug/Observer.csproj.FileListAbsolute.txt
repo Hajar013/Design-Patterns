@@ -1,0 +1,8 @@
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Hajar\source\repos\Design Patterns\Observer\Observer\obj\Debug\Observer.pdb

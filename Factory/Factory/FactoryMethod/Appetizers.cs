@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Factory.FactoryMethod
+{
+    public interface IAppetizer : IDish
+    {
+        void Serve();
+    }
+    public class ChickenSalad : Dish, IAppetizer
+    {
+        public ChickenSalad(string size, string calories, decimal price, List<string> ingredients) : base(size, calories, price, ingredients) { }
+        public void Serve()
+        {
+            Console.WriteLine($"Chicken Salad \n▀▀▀▀▀▀▀▀▀▀▀▀▀\n{ShowDetails()}");
+        }
+    }
+    public class ButterCracker : Dish, IAppetizer
+    {
+        public ButterCracker(string size, string calories, decimal price, List<string> ingredients) : base(size, calories, price, ingredients) { }
+        public void Serve()
+        {
+            Console.WriteLine($"Butter Cracker \n▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n{ShowDetails()}");
+        }
+    }
+    public class CheeseTwist : Dish, IAppetizer
+    {
+        public CheeseTwist(string size, string calories, decimal price, List<string> ingredients) : base(size, calories, price, ingredients) { }
+        public void Serve()
+        {
+            Console.WriteLine($"Cheese Twist \n▀▀▀▀▀▀▀▀▀▀▀▀\n{ShowDetails()}");
+        }
+    }
+    public class PotatoBite : Dish, IAppetizer
+    {
+        public PotatoBite(string size, string calories, decimal price, List<string> ingredients) : base(size, calories, price, ingredients) { }
+        public void Serve()
+        {
+            Console.WriteLine($"Potato Bite \n▀▀▀▀▀▀▀▀▀▀▀\n{ShowDetails()}");
+        }
+    }
+
+}
